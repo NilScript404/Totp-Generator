@@ -3,7 +3,14 @@
 ## Overview
 A lightweight Time-based One-Time Password (TOTP) generator implemented in Go with a simple GUI using Fyne. This application supports multiple hash functions (SHA1, SHA256, SHA512) and configurable digit lengths, making it compatible with standard TOTP implementations.
 
-![Application UI](https://github.com/NilScript404/Totp-Generator/blob/main/UI.PNG)
+## User Interface
+
+
+<p align="center">
+
+  <img src="https://github.com/NilScript404/Get-Brute-Forcer/blob/main/UI.PNG" alt="Application UI">
+
+</p>
 
 ## Features
 - **Multiple Hash Functions:** Support for SHA1, SHA256, and SHA512
