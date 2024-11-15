@@ -8,7 +8,7 @@ A lightweight Time-based One-Time Password (TOTP) generator implemented in Go wi
 
 <p align="center">
 
-  <img src="https://github.com/NilScript404/Get-Brute-Forcer/blob/main/Ex.PNG" alt="Application UI">
+  <img src="https://github.com/NilScript404/Totp-Generator/blob/main/Ex.PNG" alt="Application UI">
 
 </p>
 
